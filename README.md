@@ -1,2 +1,2 @@
 # Lerpers
-lerp helpers for common cases
+personal lerp helpers for common cases
